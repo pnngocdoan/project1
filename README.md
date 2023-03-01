@@ -2,9 +2,9 @@
 
 Submitted by: **Ngoc Doan**
 
-This web app: **At college S, there are many interesting interdisciplinary courses, let's find out which courses are popular!**
+This web app: **At college S with 400 students, there are many interesting interdisciplinary courses, let's find out which courses are popular!**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
